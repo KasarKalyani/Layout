@@ -1,8 +1,8 @@
 
-Navigate to pages/UI/ParentCard file.
+1) Navigate to pages/UI/ParentCard file.
 
-Run npm run dev.
+2) Run npm run dev.
 
-Will see a page with option on top to chage child card layout/ parent card layout.
+3) Will see a page with option on top to chage child card layout/ parent card layout.
 
-And see the magic.
+4) And see the magic.
